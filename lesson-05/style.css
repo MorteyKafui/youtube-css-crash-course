@@ -1,0 +1,23 @@
+/* comment */
+
+/*
+comment 1
+comment 2
+comment 3
+*/
+
+h1 {
+  color: red;
+  font-size: 50px;
+}
+
+p {
+  color: blue;
+  font-size: 20px;
+}
+
+button {
+  background-color: teal;
+  color: white;
+  font-size: 20px;
+}
