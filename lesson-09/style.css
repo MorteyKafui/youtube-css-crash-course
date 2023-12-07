@@ -1,0 +1,18 @@
+.title {
+  /* font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif; */
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  font-style: italic;
+  color: #a52a2a;
+  /* color: brown; */
+  text-align: center;
+  text-decoration: underline;
+}
+
+.text {
+  font-size: 30px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
