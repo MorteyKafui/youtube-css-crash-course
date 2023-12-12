@@ -1,0 +1,8 @@
+body {
+  color: aliceblue;
+  /* background-color: hsl(47, 100%, 50%); */
+  background-image: url(sunset.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
